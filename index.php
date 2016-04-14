@@ -115,20 +115,20 @@
 			<div class="row">
 				<div class="col-sm-4 wow fadeInDown text-center">
 				  <img class="rotate" src="img/icon/browser.svg" alt="Generic placeholder image">
-				  <h3>Автоматизация бизнес-процессов в компании</h3>
+				   <h3>Задачи и проекты</h3>
+				  <br>
 				  <p class="lead">
-				  - оплата счетов <br>
-				  - заявлений на отпуск <br>
-				  - заявления на командировку <br>
-				  - учет исходящих документов <br>
-				  - и многое другое</p>
+				  - Удобная постановка<br>
+				  - Напоминание о сроках<br>
+				  - Возможность контроля
+				  </p>
 
 				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-sm-4 wow fadeInDown text-center">
-				  <img  class="rotate" src="img/icon/picture.svg" alt="Generic placeholder image">
-				   <h3>IP-телефония</h3>
+				  <img  class="rotate" src="img/icon/search.svg" alt="Generic placeholder image">
+				   <h3>CRM</h3>
 				   <br>
 				   <p class="lead">
 				   - Снижение расходов<br>
@@ -140,14 +140,15 @@
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-sm-4 wow fadeInDown text-center">
-				  <img  class="rotate" src="img/icon/calendar.svg" alt="Generic placeholder image">
-				   <h3>Электронный ежедневник</h3>
-					<p class="lead">
-					- синхронизация с почтой <br>
-					- Планировщик задач/событий <br>
-					- Собрания и планерки <br>
-					- График отсутствий<br>
-					</p>
+				  <img  class="rotate" src="img/icon/headphones.svg" alt="Generic placeholder image">
+				   <h3>IP-телефония</h3>
+				   <br>
+				   <p class="lead">
+				   - Снижение расходов<br>
+				   - Запись разговоров<br>
+				   - Перенаправление звонка<br>
+				   -и многое другое
+				   </p>
 				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
 				
@@ -156,21 +157,21 @@
 			<div class="row tworow">
 			
 				<div class="col-sm-4  wow fadeInDown text-center">
-				  <img class="rotate" src="img/icon/laptop.svg" alt="Generic placeholder image">
-				  <h3>Задачи и проекты</h3>
-				  <br>
-				  <p class="lead">
-				  - Удобная постановка<br>
-				  - Напоминание о сроках<br>
-				  - Возможность контроля
-				  </p>
+				  <img class="rotate" src="img/icon/chat.svg" alt="Generic placeholder image">
+				    <h3>Социальная сеть компании</h3>
+				   <p class="lead">
+				   	- Мгновенный обмен сообщениями<br>
+				   	- Корпоративный мессенджер<br>
+				   	- Мобильное приложение
+				   </p>
 				   
 				 <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-sm-4 wow fadeInDown text-center">
-				  <img  class="rotate" src="img/icon/map.svg" alt="Generic placeholder image">
-				   <h3>Социальная сеть компании</h3>
+				  <img  class="rotate" src="img/icon/folder.svg" alt="Generic placeholder image">
+				   <h3>Документооборот</h3>
+				   <br>
 				   <p class="lead">
 				   	- Мгновенный обмен сообщениями<br>
 				   	- Корпоративный мессенджер<br>
@@ -180,9 +181,14 @@
 				</div><!-- /.col-lg-4 -->
 				
 				<div class="col-sm-4 wow fadeInDown text-center">
-				  <img  class="rotate" src="img/icon/browser.svg" alt="Generic placeholder image">
-				   <h3>Bootstrap</h3>
-				 <p class="lead">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. </p>
+				  <img  class="rotate" src="img/icon/calendar.svg" alt="Generic placeholder image">
+				 <h3>Электронный ежедневник</h3>
+					<p class="lead">
+					- синхронизация с почтой <br>
+					- Планировщик задач/событий <br>
+					- Собрания и планерки <br>
+					- График отсутствий<br>
+					</p>
 				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
 				</div><!-- /.col-lg-4 -->
 				
@@ -198,7 +204,7 @@
             <div class="row">
 			
 				<div class="col-sm-6 pull-right wow fadeInRightBig">
-                    <img class="img-responsive " src="img/ipad.png" alt="">
+                    
                 </div>
 				
                 <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
@@ -441,10 +447,11 @@
 				<div class="col-md-5 col-md-push-1 address">
 					<address>
 					<h3>Наш офис</h3>
-					<p class="lead">город Минск<br>
+					<p class="lead"><b>город Минск<br>
 					пр.Победителей 103, офис 1214<br>
-					Phone: XXX-XXX-XXXX<br>
-					</p>
+					Телефон: +375 29 741 93 60<br>
+					+375 29 502 45 75
+					</b></p>
 					</address>
 
 					<h3>Social</h3>
